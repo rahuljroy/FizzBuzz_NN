@@ -21,6 +21,6 @@ subsequently get run from the ‘main.py’ code.
 # Running the code
 Enter the following command in your terminal for running the saved model.<br />
 You can change the input file by just tweaking the file name passed as the command line argument. <br />
-'''console
-$ python main.py --test-data test_input.txt
-'''
+
+  $ python main.py --test-data test_input.txt
+
