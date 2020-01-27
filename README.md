@@ -1,4 +1,4 @@
-# FizzBuzz_DeepLearning
+# FizzBuzz using Deep Learning
 Neural Network implementation to solve the FizzBuzz problem
 # 1. The Problem
 In this task an integer divisible by 3 is printed as Fizz, and integer divisible by 5 is printed as
