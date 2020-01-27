@@ -18,9 +18,11 @@ and the machine learning code respectively.<br />
 Keras using TF in the backend.<br />
 ● model.h5 - This file is generated when the file ‘model.py’ is run, and this will
 subsequently get run from the ‘main.py’ code.
-# Running the code
+# 3. Running the code
 Enter the following command in your terminal for running the saved model.<br />
 You can change the input file by just tweaking the file name passed as the command line argument. <br />
 
   $ python main.py --test-data test_input.txt
 
+# 4. Report
+A more detailed version of the analysis that was done can be found in the report that is attached.
