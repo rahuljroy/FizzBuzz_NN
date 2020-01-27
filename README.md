@@ -1,10 +1,10 @@
 # FizzBuzz_DeepLearning
 Neural Network implementation to solve the FizzBuzz problem
-# 1. The Problem.
+# 1. The Problem
 In this task an integer divisible by 3 is printed as Fizz, and integer divisible by 5 is printed as
 Buzz. An integer divisible by both 3 and 5 is printed as FizzBuzz. If the number is not divisible
 by both 3 and 5, then the number itself is printed as the output.
-# 2. Structure.
+# 2. Structure
 Configuration used:<br />
 ● Python 3.7.6<br />
 ● Keras 2.3.1<br />
